@@ -1,6 +1,6 @@
 
-🖥️ ** Digital Evidence Analyzer Tool
-**
+🖥️ **Digital Evidence Analyzer Tool**
+
 **Digital Evidence Analyzer Tool** is a Python-based forensic utility built to support cybersecurity professionals, forensic investigators, and IT administrators in analyzing critical system data and gathering digital evidence. The tool features a GUI-based, modular design to streamline forensic workflows across five primary analysis domains.
 
 ---
